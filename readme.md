@@ -81,6 +81,8 @@ No need a database installation make your website very fast, and of course with 
 
 Need demo ?? [Just Play Demo Video →](https://youtu.be/ayCdaW3kFdU)
 
+or visit site for [live demo →](https://cmssekolah.sourceforge.io/)
+
 More themes :
 https://axcora.com/getaxcoracms
 
