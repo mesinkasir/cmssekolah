@@ -37,6 +37,14 @@ Create article post very simple and easy
 
 Back end setting
 
+![new modern website cms](https://github.com/mesinkasir/cmssekolah/cmssekolah%20speed.png)
+
+Test on Gt metrixs
+
+![new modern website cms](https://github.com/mesinkasir/cmssekolah/tes%20cms.png)
+
+Test Google page speed
+
  -----------------------------------------------------------------
 ### how to install
 
