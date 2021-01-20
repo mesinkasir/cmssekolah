@@ -1,37 +1,91 @@
-## Welcome to GitHub Pages
+# New Modern CMS Build a website without database.
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/cmssekolah/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A new generation get simpe cms axcora tech for develope website project powerfull !!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+No need a database for installation , make your website very fast and SEO friendly.
 
-### Markdown
+CMS Sekolah - school website Template for get axcora cms.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![cms sekolah school website](https://a.fsdn.com/con/app/proj/cmssekolah/screenshots/s.png/max/max/1)
 
-```markdown
-Syntax highlighted code block
+Modern design with boostrap 5
 
-# Header 1
-## Header 2
-### Header 3
+![cms sekolah school website](https://a.fsdn.com/con/app/proj/cmssekolah/screenshots/z.png/max/max/1)
 
-- Bulleted
-- List
+New generation with get axcora cms modern web apps.
 
-1. Numbered
-2. List
+![cms sekolah school website](https://a.fsdn.com/con/app/proj/cmssekolah/screenshots/Screenshot_2021-01-09%20Profile.png/max/max/1)
 
-**Bold** and _Italic_ and `Code` text
+Responsif website and mobile first
 
-[Link](url) and ![Image](src)
-```
+![cms sekolah school website](https://a.fsdn.com/con/app/proj/cmssekolah/screenshots/Screenshot_2021-01-09%20Info.png/max/max/1)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+With Home page menu, About Page , Profile Page, Gallery Page , and contact
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/cmssekolah/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Login Area for backend
 
-### Support or Contact
+![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%285%29.png/max/max/1)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Page and article post menu.
+
+![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%284%29.png/max/max/1)
+
+Create article post very simple and easy
+
+![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%282%29.png/max/max/1)
+
+Back end setting
+
+![new modern website cms](https://github.com/mesinkasir/cmssekolah/blob/main/cmssekolah%20speed.png)
+
+Test on Gt metrixs
+
+![new modern website cms](https://github.com/mesinkasir/cmssekolah/blob/main/tes%20cms.png)
+
+Test Google page speed
+
+ -----------------------------------------------------------------
+### how to install
+
+CLOUDS / SHARED HOSTING
+
+Just download this file and upload on your shared or clouds host , upload on public_html fle if you using this cms for develope home page website, or you can upload it on sub directori .
+After upload progress success, now you need to configure website.xml file on \getaxcora\data\other\website.xml file. then change <SITEURL><![CDATA[http://localhost/getaxcoracms/]]></SITEURL> with your site URL.
+Your website is online now . for accsess backend you need visit yourwebsite/admin
+
+LOCALHOST
+
+Need third party XAMPP WAMPP LAMPP server, download this project and upload on your xampp/htdocs folder, then visit localhost/your project. need to configure website.xml file on \getaxcora\data\other\website.xml file. then change <SITEURL><![CDATA[http://localhost/getaxcoracms/]]></SITEURL> with your site URL.
+Your website is online now on localhost. for accsess backend menu you need visit localhost/yourproject/admin
+
+By default use username : axcora and password : axcoracms
+
+Features :
+
+Frontend
++ Home page design with landing page
++ About page
++ Info page 
++ Profile page
++ Gallery Page
++ Contact Page information
+
+Backend
++ Page for create new post article content you can edit and delete too.
++ File menu for upload media manager
++ Setting for change password and others.
++ SEO : automaticly generate meta title , description , facebook, twitter.
+
+No need a database installation make your website very fast, and of course with SEO friendly include, simple and easy to use.
+
+Need demo ?? [Just Play Demo Video →](https://youtu.be/ayCdaW3kFdU)
+
+or visit site for [live demo →](https://cmssekolah.sourceforge.io/)
+
+More themes :
+https://axcora.com/getaxcoracms
+
+present by https://axcora.com
+
+Hapy codding !!
