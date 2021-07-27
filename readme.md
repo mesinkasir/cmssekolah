@@ -34,10 +34,6 @@ File manager system
 
 Back end setting
 
-![pos apps free download](https://1.bp.blogspot.com/-oAJGBpB86I4/YBDnCo2tn7I/AAAAAAAAMo4/2uUQrJaYJcwYk1O9gMmIP5sL0kh6tDV9gCLcBGAsYHQ/s1372/Screenshot_2021-01-27%2BMobile%2BWeb%2BApps%2B%25C2%25BB%2BSupport.png)
-
-New Update POS apps plugin for modern website + POS application web app
-
  -----------------------------------------------------------------
 ### how to install
 
